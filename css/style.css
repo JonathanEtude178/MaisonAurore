@@ -1,0 +1,20 @@
+body{
+    background: url(../img/CafeBackground.jpg)no-repeat fixed center center / cover;
+}
+
+.Hero {
+  position: absolute;
+  top: 80px;
+  right: 550px;
+  width: 200px;
+  height: 100px;
+}
+
+ul {
+  display: flex;
+  justify-content: top right;
+  space-between: 20px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
