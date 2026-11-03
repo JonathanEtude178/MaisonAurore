@@ -12,8 +12,8 @@ body{
 
 ul {
   display: flex;
-  justify-content: top right;
-  space-between: 20px;
+  justify-content: top left;
+  justify-content: space-between 200px;
   list-style-type: none;
   margin: 0;
   padding: 0;
